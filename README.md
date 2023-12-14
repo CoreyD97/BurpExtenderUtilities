@@ -11,3 +11,5 @@ Developed by Corey
 Arthur  [![Twitter Follow](https://img.shields.io/badge/follow-%40CoreyD97-1DA1F2?logo=twitter&style=social)](https://twitter.com/coreyd97/)  
 
 **_With the Montoya API being released, this repository is deprecated and no longer maintained._**
+
+For the Montoya version of this library, see [Burp-Montoya-Utilities](https://github.com/CoreyD97/Burp-Montoya-Utilities)
